@@ -130,7 +130,6 @@ problema-b,cpp,AC100,3483C00B15D6589D03AC8D72F595B02F970492CE7B513E144531C29FCC4
 
 #### Ejemplo de uso
 ```
-# Descarga los primeros 100 envíos
 > .\Compare-Files.ps1
 ```
 
