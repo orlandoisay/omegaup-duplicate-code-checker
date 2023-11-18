@@ -10,7 +10,7 @@ Para poder correr los scripts de este repo se necesita contar un token de API de
 > **_Nota:_** El token solo aperece una vez. Además, hay que considerar que cada token tiene un límite de 1000 peticiones por hora. Esto es relevante si el concurso tiene demasiados envíos, puesto que para descargar cada envío se necesita hacer una petición distinta.
 
 ## Scripts
-Todos los scripts estan escritos en Windows PowerShell
+Todos los scripts estan escritos en Windows PowerShell.
 
 ### Generate-Folders.ps1
 - Este script se encarga de obtener la lista de los diferentes problemas presentes en el concurso, y generar carpetas para almacenarlos.
