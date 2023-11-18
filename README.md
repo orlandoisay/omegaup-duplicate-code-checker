@@ -2,10 +2,10 @@
 
 ## Requisitos
 Para poder correr los scripts de este repo se necesita contar un token de API de OmegaUp. Los pasos para generar un nuevo token son:
- - En OmegaUp, navegar a la página de perfil.
- - Hacer click en el botón "Adminstrar claves de la API".
- - Ingresar un nombre para el token.
- - Hacer click en "Agregar token".
+ 1. En OmegaUp, navegar a la página de perfil.
+ 2. Hacer click en el botón "Adminstrar claves de la API".
+ 3. Ingresar un nombre para el token.
+ 4. Hacer click en "Agregar token".
 
 > **_Nota:_** El token solo aperece una vez. Además, hay que considerar que cada token tiene un límite de 1000 peticiones por hora. Esto es relevante si el concurso tiene demasiados envíos, puesto que para descargar cada envío se necesita hacer una petición distinta.
 
