@@ -1,4 +1,4 @@
-# Instructiones de uso
+# Instrucciones de uso
 
 ## Requisitos
 Para poder correr los scripts de este repo se necesita contar un token de API de OmegaUp. Los pasos para generar un nuevo token son:
